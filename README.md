@@ -75,8 +75,8 @@ This trains two CatBoost classifiers (reaction type and outcome severity) and sa
 
 The training dataset contains sensitive neonatal clinical information and is not publicly distributed. To request access for research or educational purposes, contact:
 
-- Md. Zehadul Islam — gg.solve.zehadul999@gmail.com
 - Md. Abdullah Al Moin — midul7714@gmail.com
+- Md. Zehadul Islam — gg.solve.zehadul999@gmail.com
 
 Please include your name, institution, and research purpose. Requests are reviewed case-by-case.
 
