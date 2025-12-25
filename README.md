@@ -57,6 +57,12 @@ Open `http://localhost:5000` in your browser.
 4. Click “Predict”
 5. View predicted labels, probabilities, and a SHAP feature contribution plot
 
+### Application Screenshots
+
+| Input Interface | Results Page |
+|-----------------|-------------|
+| ![Input Form](https://drive.google.com/uc?id=1yhqdjHCRrBMndkI7zVQz758FN8SShxfY) | ![Results Page](https://drive.google.com/uc?id=1SUwoAXsESxb8aAf33lnNczZ2GK0ds6WG)
+
 ## Train the Models
 
 ```bash
